@@ -5,4 +5,11 @@ public class B {
     	return a-b;
     	//123
     }
+    
+    public void m3() {
+    	// ....
+    	// ....
+    	///....
+    	//complted
+    }
 }
